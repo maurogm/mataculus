@@ -1,0 +1,1 @@
+sudo bash shell_scripts/pandoc_install.sh
